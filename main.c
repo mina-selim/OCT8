@@ -6,3 +6,4 @@ void main(){
 	int y=5 , z=10;
 	x = add(y,z);
 }
+z = 5;
